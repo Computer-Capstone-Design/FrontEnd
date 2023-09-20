@@ -28,6 +28,7 @@ const App = () => (
       menuBarPosition: "bottom",
     }}
     cssMaxHeight={500}
+    ya
     cssMaxWidth={700}
     selectionStyle={{
       cornerSize: 20,
